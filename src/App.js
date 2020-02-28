@@ -12,7 +12,7 @@ import StartButton from "./components/StartButton";
 import ResetButton from "./components/ResetButton";
 
 function App() {
-  return <div>Hello World</div>;
+  return <div className="App">Hello World</div>;
 }
 
 export default App;
